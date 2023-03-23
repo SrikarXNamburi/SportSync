@@ -5,8 +5,6 @@
 
 ## Plan
 - [ ] Competitive Analysis
-  - [ ] Analyze Tools already out there
-  - [ ] Analyze Problems with tools
   - [ ] Come up with Needs
   - [ ] Come up with Features
   - [ ] Come up with Requirements
