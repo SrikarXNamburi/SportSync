@@ -5,6 +5,7 @@
 
 ## Plan
 - [ ] Competitive Analysis
+  - [ ] Come up with Business Plan
   - [ ] Come up with Needs
   - [ ] Come up with Features
   - [ ] Come up with Requirements
